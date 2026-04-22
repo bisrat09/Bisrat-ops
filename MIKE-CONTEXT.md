@@ -35,6 +35,12 @@ Retired: Telegram James (2026-04-20), Hermes, Milo.
 
 ## Strategy Log — most recent first
 
+2026-04-21 — Post #30 Dubai Flying Taxi carousel built and scheduled — IG + FB via Publer, 2026-04-22 09:00 EST. Script: build_dubai_flying_taxi_carousel.py. Label gold bar removed from design. DONE.
+
+2026-04-21 — Alex capability check run — PASS: packages, ffmpeg. FAIL: API keys (shell blocked on Dispatch, Write tool needed), bisrat-ops not cloned on Dispatch, pending-research.json now seeded by James. Alex can build carousels but not TTS reels until keys are in /root/.claude/settings.json.
+
+2026-04-21 — pending-research.json seeded — 5 stories from 2026-04-21 scored batch now live in habesha-ai/data/pending-research.json. Alex reads this on session start.
+
 2026-04-21 — Dispatch renamed to Alex — clearer identity, less confusion with James. DONE.
 
 2026-04-21 — Mike context system live — auto-loads MIKE-CONTEXT.md from bisrat-ops at session start via Claude Project instructions. DONE.
