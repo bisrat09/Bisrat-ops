@@ -39,9 +39,9 @@ Retired: Telegram James (2026-04-20), Hermes, Milo.
 
 2026-04-21 — Mike context system live — auto-loads MIKE-CONTEXT.md from bisrat-ops at session start via Claude Project instructions. DONE.
 
-2026-04-21 — Milo retired (PENDING) — decision made, not yet executed. James/Alex still need to: stop com.bisrat.milo, archive it, gut poller of Milo code, wire daily_pipeline.py to write to pending-research.json instead.
+2026-04-21 — Milo retired (DONE) — com.bisrat.milo stopped, unloaded, plist archived to ~/Library/LaunchAgents/archive/. Milo code remains in james_queue_poller.py (poller still handles engineering tasks) but the Milo research flow is dead. Alex is the new morning researcher.
 
-2026-04-21 — Poller rewired (PENDING) — depends on Milo retirement above. Poller keeps running, output goes to pending-research.json. Alex reads it each morning and researches top story.
+2026-04-21 — Poller rewired (DONE) — daily_pipeline.py now loads top 5 passed scored stories after scoring and writes them to data/pending-research.json. Format: {generated_at, stories: [{rank, title, score, source, url, summary}]}. Alex reads this file at session start instead of waiting for Milo.
 
 2026-04-21 — Bisrat-ops repo created (public) — single source of truth for Mike, James, Alex across sessions
 
@@ -49,7 +49,7 @@ Retired: Telegram James (2026-04-20), Hermes, Milo.
 
 2026-04-21 — Tim Cook reel built and posted (reel-006) — Apple CEO transition to John Ternus (Sept 1, 2026), Srouji named Chief Hardware Officer. 4 slides, Aaron voice, 36s. Posted IG + FB + TikTok + YouTube.
 
-2026-04-21 — Milo retirement pending — Poller to be rewired to write to pending-research.json. Alex becomes the morning researcher.
+2026-04-21 — Milo retirement complete — Poller rewired to write to pending-research.json. Alex is the morning researcher.
 
 2026-04-20 — Habesha AI locked as primary until May 7, 2026 — daily carousel + reel, goal 1K TikTok followers by July 2026.
 
