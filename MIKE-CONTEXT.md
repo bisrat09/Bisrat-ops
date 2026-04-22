@@ -35,7 +35,13 @@ Retired: Telegram James (2026-04-20), Hermes, Milo.
 
 ## Strategy Log — most recent first
 
-2026-04-21 — Dispatch renamed to Alex — clearer identity, less confusion with James
+2026-04-21 — Dispatch renamed to Alex — clearer identity, less confusion with James. DONE.
+
+2026-04-21 — Mike context system live — auto-loads MIKE-CONTEXT.md from bisrat-ops at session start via Claude Project instructions. DONE.
+
+2026-04-21 — Milo retired (PENDING) — decision made, not yet executed. James/Alex still need to: stop com.bisrat.milo, archive it, gut poller of Milo code, wire daily_pipeline.py to write to pending-research.json instead.
+
+2026-04-21 — Poller rewired (PENDING) — depends on Milo retirement above. Poller keeps running, output goes to pending-research.json. Alex reads it each morning and researches top story.
 
 2026-04-21 — Bisrat-ops repo created (public) — single source of truth for Mike, James, Alex across sessions
 
