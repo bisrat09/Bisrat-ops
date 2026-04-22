@@ -13,13 +13,20 @@
 - Reads MIKE-CONTEXT.md to pick up between sessions
 - Model: Claude (web, latest)
 
-## James (Claude Code)
-- Role: Engineering Lead
+## James (Claude Code / terminal)
+- Role: Engineering Lead, nights
 - Handles: all building, coding, committing, pushing, carousel/reel production, pipeline maintenance
 - Works in: ~/projects/habesha-ai (primary), ~/projects/james-telegram-bridge, ~/personal/cee
-- Two instances: Terminal James (Mac Mini, nights) and Dispatch (Claude Code mobile, daytime)
 - Syncs via: JAMES-HANDOFF-snapshot.md + data/session-bookends.md on GitHub main
 - Model: Claude Sonnet 4.6 (default). Opus only when Bisrat explicitly requests.
+
+## Alex (Claude Code / Dispatch)
+- Role: Engineering Lead, daytime
+- Same capabilities as James — carousels, reels, QA, research
+- Syncs via same GitHub main branch; reads JAMES-HANDOFF-snapshot.md + session-bookends.md on start
+- API keys wired via ~/.claude/settings.json env block (ANTHROPIC_API_KEY, ELEVENLABS_API_KEY)
+- Packages: pip install -r requirements.txt on first session
+- Model: Claude Sonnet 4.6 (default).
 
 ## Cee
 - Role: Personal life assistant
