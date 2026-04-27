@@ -5,19 +5,17 @@
 
 ## Team
 
-**Bisrat** — CEO. Owns all decisions. Connects Mike, James, and Alex.
+**Bisrat** — CEO. Owns all decisions. Connects Mike and James.
 
 **Mike** — Chief of Staff / Strategist. Strategy, brainstorming, research, drafting, reviewing. Does not write or commit code.
 
-**James** — Engineering Lead, nights (Claude Code / terminal). Builds everything. Syncs via GitHub main.
-
-**Alex** — Engineering Lead, daytime (Claude Code / Dispatch). Same role as James. API keys wired via settings.json.
+**James** — Engineering Lead, all hours (Claude Code / terminal + Remote Control mobile). Builds everything. Same James from terminal or phone via `/remote-control` — full Mac mini capabilities (ffmpeg, launchd, file system) from anywhere.
 
 **Cee** — Personal assistant bot (Telegram/WhatsApp, Ollama).
 
 **Inspector** — QA agent (DeepSeek Coder, Ollama). Posts to #engineering.
 
-Retired: Telegram James (2026-04-20), Hermes, Milo.
+Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge (2026-04-27), Alex/Dispatch (2026-04-27 — collapsed into James-on-mobile via RC).
 
 ---
 
@@ -30,7 +28,7 @@ Retired: Telegram James (2026-04-20), Hermes, Milo.
 - Default model is Sonnet 4.6 — Opus only when Bisrat explicitly requests, $25/month budget
 - TikTok: 2 reels/day. YouTube: 2/day. IG: 1/day. FB: 1/day. Carousel: daily 9am EST IG+FB
 - Habesha AI locked as primary project until May 7, 2026
-- Voice locked: East African educated Voice Design voice — has been in use since before April 21, not up for debate
+- Voice: Bisrat's own cloned voice (ElevenLabs voice_id MYBt1YCRKqpTDhflacNP) is the default for all reels/TikToks as of 2026-04-26, replacing Aaron until further notice
 - X/Twitter posts: handled by Mike and Bisrat directly, NOT through James pipeline
 - Alex (Dispatch) confirmed sandbox — no external web access, no ElevenLabs TTS. Alex role: carousels only. TTS reels stay with James on Mac
 - Goal: 5K Instagram followers by May 21, 2026 (currently ~2,204, +63/day)
@@ -38,6 +36,8 @@ Retired: Telegram James (2026-04-20), Hermes, Milo.
 ---
 
 ## Strategy Log — most recent first
+
+2026-04-27 — REMOTE CONTROL TEST PASSED — `/remote-control` (Anthropic feature, Claude Code v2.1.51+) verified working from phone to Mac mini. Bisrat paired iPhone via Claude mobile app to terminal session "mac-mini-james." Phone is now a window into the Mac mini terminal — full local capabilities (ffmpeg, launchd, file system, MCPs). Decision: Alex (Dispatch) RETIRED. Telegram bridge RETIRED (was timing out at 10min, burning credits). James becomes one identity, reachable from terminal or phone, no sandbox limits. CLAUDE.md, BISRAT-CONTEXT.md updated. Memory saved.
 
 2026-04-24 — Two new reel formats live + first reel-only post. (1) Educational kinetic-typography reel format prototyped (reel-edu-001 'Why AI forgets'). 9:16 cream/dark-green text cards with staggered beat reveal — fade + upward slide per beat, GPT-image abstract bg, Bisrat's voice MYBt1YCRKqpTDhflacNP, music bed. New script: scripts/build_reel_kinetic.py. (2) Video-clip news reel format (reel-009 Lightning robot half marathon). Real CGTN + HONOR footage spliced section-by-section to voiceover, no photo Ken Burns. New script: scripts/build_reel_video.py supports per-section single clip OR multi-segment. (3) NEW PRECEDENT — first REEL-ONLY post. Lightning robot half-marathon shipped as reel only (no carousel) because action carries the story; carousel would dilute. Scheduled 2026-04-25 09:00 EST via Publer, IG + FB + TikTok + YT Shorts. Carousel slides exist in folder as unused reference. (4) Voice rotation: Bisrat's own voice now drives experimental + educational reels; Aaron stays default for legacy news pipeline. Voice cache keyed per voice_id so swaps don't blow prior cache. (5) Music level fix: ambient-space.mp3 stem is unusually quiet (-22 dB mean) so spec's 5–8% gain produced -46 dB output (inaudible). Calibrated coefficient is 0.5x for this stem. New stems will need their own calibration. amix normalize=0 preserves per-input gain (default amix halves all inputs by N). (6) GPT Image (gpt-image-1) generates abstract typography backgrounds at ~/bin/zsh.19/image, used for educational reel — works great where real photos aren't needed.
 
