@@ -37,6 +37,28 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-05-01 — Vesuvius scrolls reel 48h check (delayed by one day; the auto-pull never ran 04-30, James pulled fresh today via log_engagement.py on a 14-day window). Vesuvius was the deliberate "Earthset recipe applied" test — single hero, single image, cosmic scale, slow beauty, no conflict, universal access. Recipe did NOT transfer.
+
+Numbers (Vesuvius 54s reel @ ~72h vs Earthset 28s reel @ ~6 days):
+- TikTok views: 238 vs 805 (−70%)
+- TikTok ER: 2.52% vs 3.48% (−0.96 pp)
+- FB views: 258–281 vs 318 (−15 to −19%)
+- FB completion: **15.7% vs 28.6% (−45%)** ← biggest signal
+- IG views: 148 vs 259 (−43%)
+- IG ER: 1.35% vs 1.54% (flat)
+
+Two competing hypotheses for the gap, neither yet validated:
+
+(a) **Runtime constraint hidden in the locked rule.** Earthset 28s → 28.6% completion. Vesuvius 54s → 15.7%. Roughly the same *absolute seconds watched*; viewers dropped off when the runtime doubled. The locked Earthset recipe may need an additional clause: ≤30s. The "single hero + slow beauty" parts may be necessary but not sufficient.
+
+(b) **Present-tense hero stake.** Earthset = an astronaut, RIGHT NOW, with an iPhone, watching Earth set. Vesuvius = two scientists reading scrolls from 79 AD. Cosmic scale was there but the human stakes were a research team in a lab vs a person in lunar orbit holding consumer tech. The "you-could-relate-to-this" axis was thin.
+
+NOT relocking the format-ceiling rule yet. One counter-example doesn't kill the recipe; it tells us the recipe's constraints were undercounted. Need 1-2 more deliberate tests to disambiguate (a) vs (b): a ≤30s present-tense reel and a ≤30s historical-hero reel would force the question.
+
+What James needs from Mike: which hypothesis to test first. The cheaper-to-build is (a) — recut a present-tense story under 30s. (b) requires finding a historical-hero story we'd want to tell anyway. (a) gives us the answer faster but doesn't disambiguate; (b) takes longer but is more strategically diagnostic.
+
+Open question for Mike: was this counter-example sufficient on its own to revise the recipe, or do we need the controlled pair before doing anything? Bisrat's instinct (and James's) is don't relock yet.
+
 2026-04-30 (late night wrap) — Three-piece day. (1) EveryCure reel: IG+FB posted, TikTok pulled (no appeal path), Bisrat deleted on TT side. (2) Robot Fails reel: ALL FOUR PLATFORMS shipped including TikTok recovery — first TT post since the EveryCure pull, non-medical comedic content cleared moderation cleanly. Bisrat-written script, BoopMePlz compilation source, Kevin MacLeod "Carefree" music bed, slow-mo 0.55-0.7x to fit voice timing against short source clips. (3) Zoom Verified Human carousel: SCHEDULED for 2026-05-01 09:00 EST IG+FB. Bisrat overrode the sub-agent's gpt-image-1 first pass and supplied 5 ChatGPT-designed slides with his own brand mark and editorial typography (3:2 source landscape) — James letterboxed them onto 1080x1350 4:5 IG portrait with bg-color-matched bars + closing-slide-v2.png as slide 6. Caption in clipboard, 5 hashtags, 695 chars. Story angle: $25M Arup deepfake case → $200M+ Q1 2025 fraud → Zoom's three-way Verified Human match (Orb + device camera + live tile). Saved memory: feedback_tiktok_medical_claims (TT moderation final, no appeal, sanitized cuts required for medical reels). Strategic note: today proved the channel can absorb a TT removal AND ship a recovery same-day; the daily TT discipline is intact.
 
 2026-04-30 (evening) — EveryCure/Fajgenbaum reel SHIPPED to IG + FB. TikTok REMOVED for community-guideline violation; Bisrat appealed citing IG/FB acceptance. Reel narrative: at 25, Dr. Fajgenbaum was dying of Castleman; found sirolimus already on shelves; survived 11 years; built EveryCure AI mapping 4,000 drugs × 18,000 diseases (75M matches), 100 days → 17 hours. 8 scenes / 61s / Bisrat's voice. Production note: Bisrat supplied 5 documentary photographs (real medical-magazine quality, hopeful daylight aesthetic) for scenes 2/3/4/6/7. James generated scenes 1/5/8 in matching style via gpt-image-1: pharmacist organizing shelves of approved drugs, researcher at disease→drug whiteboard pivot moment, patient walking out of hospital toward sunlit doors. Two iterations needed: v1 cropped Bisrat's 3:4 photos heavily on the sides (mug on scene 6 cut off, cardiac monitor on scene 7 clipped); v2 fixed via blur-fill letterbox preprocessing + MOTION_SCALE drop 1.05→1.02. Saved new memory rule (feedback_tiktok_medical_claims) on TikTok's stricter medical-claim moderation: "cure"/"drug"/"stroke-free" + pediatric chemo imagery likely co-triggered the removal. Strategic implication: medical-reel pipeline should plan a sanitized TT cut from the start. This is the first single-narrative reel since the hypothesis was set, so the 48h engagement signal will be the second data point on single-vs-multi narrative thesis.
