@@ -37,6 +37,22 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-05-01 (late wrap) — Big day. Five-piece arc.
+
+(1) **Vesuvius 48h findings logged** — recipe did NOT transfer (separate Strategy Log entry below has the full breakdown and the two hypotheses awaiting Mike's pick).
+
+(2) **TikTok account-throttle theory disproved** — Robot Fails reel hit 288 TT views in <24h vs account median 215. The Tesla Optimus 36-view floor from 04-29 was per-post (AI/automation/job-replacement topic), not account-wide. Memory rule broadened from medical-claims-only to include AI/automation-replacement framing as a known TT throttle category. Saved as feedback_tiktok_topic_moderation.md.
+
+(3) **CEO Earnings Series Day 1 SHIPPED** — Zuckerberg / Meta superintelligence reel posted to IG+FB+TT+YT. First version James built (custom Pillow slides) was a fundamental composition failure — Bisrat correctly killed it: red pill overlapping Zuck's forehead, open quote with no close, dead-space-bracketed text, random spacing/sizing on $145B slide. Bisrat supplied 5 ChatGPT-designed editorial slides instead and James composed the 9-scene reel from those (slide-letterbox onto 9:16, subtle Ken Burns 1.00-1.06, ambient @ 0.35 coef, closing CTA appended). 37.27s. Logged as series_day=1; tiktok_24h_views=null awaiting tomorrow's scheduled check. Days 2-4 (Nadella, Pichai, Jassy) pending Mike's scripts.
+
+(4) **Scheduled remote agent fires 2026-05-03 02:30 UTC** to pull Publer engagement, write the 24h TT view count into entry 74, drop analytics/zuckerberg-24h-report.md, commit + push. This is the Day 1 anchor data for the cross-CEO comparison.
+
+(5) **AI Goblins carousel scheduled 2026-05-02 09:00 EST IG+FB** — Bisrat supplied 5 ChatGPT-designed AI FOR HUMANS slides using a goblin metaphor for overfitting/hallucination. Educational/AI-literacy beat (different from the news-driven cadence). Closing CTA per locked rule. Plus the Zoom Verified Human carousel also publishes tomorrow 9 AM EST IG+FB.
+
+ALSO: Bisrat had James stop the Cee personal-assistant service mid-day — she was burning tokens. Service unloaded; plist preserved for future restart after Cee gets audited.
+
+LESSON FOR JAMES (recorded so it doesn't repeat): when building multi-slide content, read the CONTACT SHEET FIRST as the QC step, not each slide in isolation. The composition errors that kill engagement only show up at series scale.
+
 2026-05-01 — Vesuvius scrolls reel 48h check (delayed by one day; the auto-pull never ran 04-30, James pulled fresh today via log_engagement.py on a 14-day window). Vesuvius was the deliberate "Earthset recipe applied" test — single hero, single image, cosmic scale, slow beauty, no conflict, universal access. Recipe did NOT transfer.
 
 Numbers (Vesuvius 54s reel @ ~72h vs Earthset 28s reel @ ~6 days):
