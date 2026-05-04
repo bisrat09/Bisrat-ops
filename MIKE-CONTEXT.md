@@ -37,6 +37,22 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-05-03 — Carousel pagination convention LOCKED — traveling dots (gold filled current, gold-outline others) on every content slide bottom-center, NOT static digit stamps. Locked after Bisrat feedback on lottery-ticket carousel where I stamped "1, 2, 3" serifs and he said "next time use the traveling dots." Memory rule saved (feedback_carousel_traveling_dots). Applied immediately on tomorrow's Google Photos carousel.
+
+2026-05-03 — Same-day reel + carousel companion strategy launched — first hypothesis test: shipped Lottery Ticket Hypothesis as both a 57s reel (IG/FB/TT/YT) and a 1080x1350 carousel (IG/FB) same day. Reels drive views, carousels drive saves. We have 0 saves on IG over the last 7d; if this pairing produces saves it validates the format split. Captions deliberately use different opening hooks so IG ranking doesn't treat them as duplicates.
+
+2026-05-03 — Carousel format default updated — 1080x1350 4:5 portrait is now the carousel default for AI FOR HUMANS series, since Bisrat's ChatGPT-designed source slides are 4:5 (1122x1402 or 1086x1448). 1080x1080 square only when source is 5:4 landscape. Format is now source-driven, not series-default.
+
+2026-05-03 — Tomorrow's post scheduled — Google Photos AI virtual wardrobe carousel, IG+FB 2026-05-04 09:00 EST. Bisrat-supplied 5 ChatGPT slides (black bg, gold + white typography, phone mockups) + HA black CTA. Renamed off the original Cher/Clueless angle to "Google Photos can now dress you from clothes you already own." Save-focused caption: "Save this for when it lands on your phone." Consumer-AI angle, low TT-throttle risk, diversifies from this week's CEO/infrastructure/medical heavy curation.
+
+2026-05-03 — Lottery Ticket reel: dense-script-vs-brief-duration trade-off — Bisrat brief targeted ~28s but locked Bisrat voice 0.92 cadence on a 135-word script lands ~55s. Shipped 57.63s, calm editorial pacing prioritized. Logged for future briefs: dense educational topics need either shorter scripts or accept 45-60s reel runtime.
+
+2026-05-03 — Mike still owes Vesuvius hypothesis pick (runtime cap ≤30s vs present-tense hero stake). The Earthset recipe didn't transfer to Vesuvius (-70% TT views, -45% FB completion). Locked rule remains unlocked pending controlled pair test.
+
+2026-05-03 — CEO Earnings Series Day 2 (Nadella / Microsoft) still pending Mike's script. Format locked from Day 1: 9-scene slide-letterbox onto 9:16, Bisrat voice 0.92, ambient bed @ 0.35, closing CTA appended. James can build as soon as script lands.
+
+2026-05-03 — Build-debt note for Mike — stamp_progress_dots logic was inlined per build script today. Refactor into shared scripts/_carousel_lib.py so future builds default to traveling-dots without re-implementing. Not blocking, but worth flagging if Mike is doing process review.
+
 2026-05-01 (late wrap) — Big day. Five-piece arc.
 
 (1) **Vesuvius 48h findings logged** — recipe did NOT transfer (separate Strategy Log entry below has the full breakdown and the two hypotheses awaiting Mike's pick).
