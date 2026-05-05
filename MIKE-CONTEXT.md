@@ -37,6 +37,20 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-05-04 — CROSS-FORMAT HYPOTHESIS WIN #1: Lottery Ticket reel + carousel same-day pairing produced our biggest TT post EVER (4,931 views, 23x median, 6x prior Earthset peak) AND the first non-zero IG saves in the recent 7-day window (3 saves). Counter-evidence supporting the hypothesis: Google Photos carousel posted SOLO (no reel companion) the next day underperformed at 168 TT (below median) and 0 IG saves. Strong first datapoint that the WIN is the format-pair, not the carousel alone. Mike: this is win #1 of the "5 wins across 2 topics" rule — need 4 more before locking.
+
+2026-05-04 — PUBLER UNDERCOUNT DISCOVERY: Publer "reach" returns ~30-40% of actual TT view counts (Lottery Ticket 1,736 Publer vs 4,931 on-platform). All TT analytics decisions made from Publer reach are deflated. Going forward: trust on-platform reads for TT-truth, use Publer for cross-platform aggregation only. Manual override applied to engagement-log.csv but log_engagement.py overwrites next pull — bug fix pending.
+
+2026-05-04 — ARISTOTLE / HARMONIC REEL SHIPPED. Same format as Zuckerberg/Lottery Ticket: Bisrat-supplied editorial slides + voice + slide-letterbox + Ken Burns + ambient bed. Story: Harmonic's AI Aristotle solved Erdős Problem #124 (additive number theory). Melvyn Nathanson (Erdős collaborator) reviewed and called the proof "correct, simple, elegant, and beautiful." 55.63s, posted IG/FB/TT/YT.
+
+2026-05-04 — TRANSPARENCY CAVEAT (Mike heads-up): Aristotle's Erdős #124 result is technically a WEAKER variant — Tao publicly noted Erdős omitted a key hypothesis and the weaker form reduces to a known result (Brown's criterion). Nathanson reviewed and praised the proof of the variant. I left the variant nuance out of captions to keep wonder framing. If a math-savvy commenter calls it out, soft-caveat as "a variant of Erdős Problem #124."
+
+2026-05-04 — CAPTION PRECISION RULE: when a story has a specific named problem/proof/paper/person, USE IT. First Aristotle caption used vague "open research problems" framing; Bisrat asked for the specific name. Web-research surfaced Erdős #124 + full Nathonson quote. The named-problem version is more credible to subject-matter readers. Going forward: any time we have a specific named entity (paper, problem, person, theorem), the caption should name it explicitly rather than gesturing at "research" or "experts."
+
+2026-05-04 — GOOGLE PHOTOS WARDROBE auto-published via Publer at 09:00 EST IG+FB. First time we successfully used Publer scheduling for one of our carousels (vs always-manual posting). End-to-end worked. Scheduled workflow now proven.
+
+2026-05-04 — IMAGE-CACHE GAP: this session's attached inline images did NOT cache to /Users/agent/.claude/image-cache/<session>/ the way May 3's did. Bisrat had to upload the 7 Aristotle slides to Drive (HabeshaAI/drafts/Reel slides Aristotle/) so I could rclone them down. Convention going forward: when attaching slides for a reel/carousel build, drop them in a Drive folder so James has a stable read path regardless of session caching.
+
 2026-05-03 — Carousel pagination convention LOCKED — traveling dots (gold filled current, gold-outline others) on every content slide bottom-center, NOT static digit stamps. Locked after Bisrat feedback on lottery-ticket carousel where I stamped "1, 2, 3" serifs and he said "next time use the traveling dots." Memory rule saved (feedback_carousel_traveling_dots). Applied immediately on tomorrow's Google Photos carousel.
 
 2026-05-03 — Same-day reel + carousel companion strategy launched — first hypothesis test: shipped Lottery Ticket Hypothesis as both a 57s reel (IG/FB/TT/YT) and a 1080x1350 carousel (IG/FB) same day. Reels drive views, carousels drive saves. We have 0 saves on IG over the last 7d; if this pairing produces saves it validates the format split. Captions deliberately use different opening hooks so IG ranking doesn't treat them as duplicates.
