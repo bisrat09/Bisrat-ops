@@ -218,3 +218,5 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 2026-04-20 — Habesha AI locked as primary until May 7, 2026 — daily carousel + reel, goal 1K TikTok followers by July 2026.
 
 2026-04-18 — TikTok cadence locked — 2 reels/day TikTok + YouTube, 1/day IG + FB.
+
+2026-05-08 — AI DREAMING REEL SHIPPED ALL 4 PLATFORMS. Anthropic's Dreaming feature (launched May 6, 2026) - AI that consolidates memory between sessions while idle (reviews patterns, merges memories, improves without retraining, like human sleep). Netflix using it. Bisrat supplied 9 editorial slides + talking-head video. James built: 9 slides with subtle motion + talking-head PiP (top-right corner, 1.0x speed, 25% width). 95.6s total. Posted IG+FB+TT+YT Shorts manual. Format: Bisrat talking-head PiP on editorial slides (same as Mona reel but top-right vs bottom-right). Story angle: wonder framing - "AI that remembers, reflects, gets better while you sleep."
