@@ -28,7 +28,7 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 - Default model is Sonnet 4.6 — Opus only when Bisrat explicitly requests, $25/month budget
 - TikTok: 2 reels/day. YouTube: 2/day. IG: 1/day. FB: 1/day. Carousel: daily 9am EST IG+FB
 - Habesha AI locked as primary project until May 7, 2026
-- Voice: Bisrat's own cloned voice (ElevenLabs voice_id MYBt1YCRKqpTDhflacNP) is the default for all reels/TikToks as of 2026-04-26, replacing Aaron until further notice
+- Voice: Bisrat records his own talking-head videos on iPhone (as of 2026-05-13, ElevenLabs cancelled). Prior: ElevenLabs cloned voice (2026-04-26 to 2026-05-13)
 - X/Twitter posts: handled by Mike and Bisrat directly, NOT through James pipeline
 - Alex (Dispatch) confirmed sandbox — no external web access, no ElevenLabs TTS. Alex role: carousels only. TTS reels stay with James on Mac
 - Goal: 5K Instagram followers by May 21, 2026 (currently ~2,204, +63/day)
@@ -36,6 +36,8 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 ---
 
 ## Strategy Log — most recent first
+
+2026-05-13 — ELEVENLABS SUBSCRIPTION CANCELLED. Bisrat has been recording his own voice on iPhone for the last 4-5 reels (Boo, Codex Bounty, Anthropic/SpaceX, AI Dreaming, Mona). Current workflow: Bisrat supplies editorial slides (ChatGPT Image/Canva) + talking-head video (iPhone recording), James composes reel (slides letterboxed to 9:16 + video as PiP + music bed). ElevenLabs API key removed from config/elevenlabs_credentials.json. Real voice > synthetic voice for brand authenticity. ElevenLabs was useful for end-to-end generation (article → script → TTS → slides → reel) but not needed for current Bisrat-supplies-assets workflow.
 
 2026-05-11 — CODEX BOUNTY REEL BUILT, READY TO POST (reel #20). Story: OpenAI's Codex coding agent was told "go make $5" and autonomously earned $16.88 by finding a GitHub security bounty, writing the fix, and getting it merged over 22 hours with zero human guidance. Sam Altman posted the result, noted if run continuously would project $500/month. Built from Bisrat-supplied materials (7 editorial slides 1024x1536 + talking-head video 102.9s). Format: slides letterboxed to 1080x1920 with cream bars, talking-head PiP top-right 25% width. Built at both 1.0x (102.9s) and 1.25x (82.4s), Bisrat picked 1.25x for tighter pacing. Wonder framing: AI agents now identify opportunity, execute work, communicate with humans, and earn money autonomously — changes what "AI agent" means. Platform-specific captions created (IG/TT/FB/YT, different hooks to avoid duplicate detection). Ready at content/ready-to-post/2026-05-11-codex-bounty/reel/, uploaded to Drive HabeshaAI/drafts/CodexBounty/ for mobile review.
 
