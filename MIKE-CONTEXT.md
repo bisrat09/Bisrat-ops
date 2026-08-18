@@ -37,20 +37,6 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
-2026-07-29 — [AUTO-LOGGED — needs James's strategic note] The Free AI Almost Nobody Can Run: Kimi K3
-  Slug: 2026-07-29-kimi-k3
-  Posted to: instagram, facebook, tiktok, youtube_shorts
-  Build notes from tracker: The Free AI Almost Nobody Can Run. Moonshot AI's Kimi K3 open-weight model: free, but 1.5+ TB to download and ~64 NVIDIA H100 GPUs to run. Scored 7.9/10 (95th percentile). 7-slide reel, Bisrat talking head PiP top-right at 240px, 1.25x, 81.1s. Slide timing whisper-synced to narration. Posted Instagram, Facebook, TikTok, YouTube Shorts 2026-07-29.
-  facebook: reach=249 likes=2 shares=0 ER=1.2%
-  tiktok: reach=259 likes=6 shares=1 ER=3.47%
-
-2026-07-28 — [AUTO-LOGGED — needs James's strategic note] Claude Opus 5: One Sentence Built a Working Video Game
-  Slug: 2026-07-28-claude-opus-5
-  Posted to: instagram, facebook, tiktok, youtube_shorts
-  Build notes from tracker: Claude Opus 5 built a working first-person shooter from a single prompt. Anthropic released it 2026-07-24. ARC-AGI-3 30.2% vs 7.8% previous best. Altman 'We are in the Singularity'. 7-slide reel, Bisrat talking head PiP top-right, 1.25x, 78.2s. Slide timing whisper-synced to narration. Posted Instagram, Facebook, TikTok, YouTube Shorts 2026-07-28.
-  facebook: reach=203 likes=0 shares=0 ER=0.0%
-  tiktok: reach=113 likes=2 shares=0 ER=1.77%
-
 2026-08-18 — ENGAGEMENT REALITY FOR THE AUGUST RUN, AND THE MEASUREMENT GAP THAT BLOCKS THE SCRIPT-SCORE THESIS. Engagement pulled 2026-08-18 for all five August reels (the #38 pull was due 08-16, so these are 4-day numbers on the newest, longer on the rest).
 
   reel  slug                        TikTok            Facebook          script
