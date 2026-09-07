@@ -24,3 +24,5 @@ Opus only when Bisrat explicitly requests. Budget: $25/month.
 
 **2026-04-18** — TikTok cadence: 2 reels/day
 YouTube: 2/day. IG: 1/day. FB: 1/day. Carousel: daily 9am EST IG+FB.
+
+**2026-09-07** — Cee RETIRED 2026-09-07, archived at ~/projects/archive/cee. Do not revive.
