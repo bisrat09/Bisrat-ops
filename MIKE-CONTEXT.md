@@ -293,3 +293,4 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-09-07] — CLAUDE.md rewritten, cut to ~1/3, ablation started — remove model-corrections, keep policy; review add-backs 2026-09-14
 [2026-09-07] — Cee retired and archived — unused, no longer worth running
 [2026-09-07] — James on Fable 5.1 — Opus 5 verbosity resolved; CLI updated to 2.1.251+
+[2026-09-07] — james-session launchd loop unloaded, plist archived to ~/projects/archive — it crash-looped (no TTY under launchd); Terminal + Remote Control is the only James path now
