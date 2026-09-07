@@ -37,6 +37,12 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-09-07 — [AUTO-LOGGED — needs James's strategic note] The Ghostwriters
+  Slug: 2026-09-07-ghostwriters
+  Posted to: instagram, facebook, tiktok, youtube_shorts
+  Build notes from tracker: Reel #41. Nairobi essay-writing industry (est. 40,000 workers at peak) collapsed within two years of ChatGPT's Nov 2022 launch. Teresios Bundi: farming village to Nairobi 2011, public health degree, 2,500+ papers over 12 years at $40-70 each; pay fell from ~$1,200 to ~$500/month; one 100-writer operator closed. Twist: the industry inverted into 'humanizing' AI drafts; writer Alphline says business is as good as ever. Sources: NYT (Satariano, Mozur, Okoth, 2026-09-05), The Next Web, Digital Trends, Gizmodo, AI Weekly. 123.2s at 1.25x, PiP head, 7 slides (slide 4 supplied after first render). Sync PASS, coverage 0.920 (312 scripted / 310 heard). Script scored 9.10/10, 100th pct of 11,314. Known defects: slide 3 bullets 'Many held university degrees' and 'They researched' under PiP head; slide 1 near 9:16 so blur-fill bands on edges; Bundi quotes in scenes 5 and 7 not verified against the NYT piece before posting. Posted IG/FB/TT/YT 2026-09-07 by Bisrat via Publer.
+  Engagement: not yet pulled.
+
 2026-09-01 — [AUTO-LOGGED — needs James's strategic note] The Civilization That Built Itself
   Slug: 2026-09-01-ai-civilization
   Posted to: instagram, facebook, tiktok, youtube_shorts
