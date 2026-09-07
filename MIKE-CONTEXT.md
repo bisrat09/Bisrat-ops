@@ -289,3 +289,7 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 2026-05-07 — MONA REEL SHIPPED IG+FB+TT. Stockholm's Andon Cafe hired AI manager Mona. She ordered 120 eggs. They don't have a stove. Humorous AI mishap story. Bisrat supplied 9 editorial slides + talking-head video. James built: talking-head PiP (bottom-right, 1.25x speed = 73.6s) + 9 slides @ 8.18s each. Total 76.1s. Posted IG+FB+TT manual (YT pending). Format: Bisrat talking-head PiP on editorial slides. Story angle: AI humor - real-world AI failure that's funny not scary, shows AI limitations in relatable way.
 
 2026-09-07 — Cee retired — Dormant since March 30 build, only doing daily Bridge standups. Service unloaded, repo archived to ~/projects/archive/cee. The Bridge group remains but has no bot posting to it. Active roster is now Mike + James + Inspector.
+
+[2026-09-07] — CLAUDE.md rewritten, cut to ~1/3, ablation started — remove model-corrections, keep policy; review add-backs 2026-09-14
+[2026-09-07] — Cee retired and archived — unused, no longer worth running
+[2026-09-07] — James on Fable 5.1 — Opus 5 verbosity resolved; CLI updated to 2.1.251+
