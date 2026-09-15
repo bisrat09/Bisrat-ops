@@ -37,6 +37,12 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-09-14 — [AUTO-LOGGED — needs James's strategic note] Dario Is Right
+  Slug: 2026-09-14-dario-is-right
+  Posted to: instagram, facebook, tiktok, youtube_shorts
+  Build notes from tracker: Reel #42. Dario Amodei's essay We Must Pace the Frontier (2026-09-12) calls for slowing AI capability gains; AI now helping build next-gen AI since summer. Sam Altman agreed within a day and committed OpenAI to embedded independent evaluators; Elon Musk posted 'Dario is right'; Demis Hassabis also backed it (not in script). Sources: darioamodei.com essay, X posts by DarioAmodei/sama/elonmusk, Axios 2026-09-12 and 09-13. 101.0s at 1.25x, PiP head, 7 slides. Sync PASS, coverage 0.939 (258 scripted / 264 heard). Script scored 8.40/10, 98.3rd pct of 12,114. Pipeline fix: _erase_pip_placeholder() removes the dashed SPACE FOR YOUR PIP box the slides shipped with. Known defects: slide 2 essay dated September 6 and slide 3 tweets dated Sep 7 (real dates Sept 12/13), shipped as is. Posted IG/FB/TT/YT 2026-09-14 by Bisrat via Publer.
+  Engagement: not yet pulled.
+
 2026-09-07 — [AUTO-LOGGED — needs James's strategic note] The Ghostwriters
   Slug: 2026-09-07-ghostwriters
   Posted to: instagram, facebook, tiktok, youtube_shorts
