@@ -306,3 +306,4 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-09-07] — Cee retired and archived — unused, no longer worth running
 [2026-09-07] — James on Fable 5.1 — Opus 5 verbosity resolved; CLI updated to 2.1.251+
 [2026-09-07] — james-session launchd loop unloaded, plist archived to ~/projects/archive — it crash-looped (no TTY under launchd); Terminal + Remote Control is the only James path now
+[2026-09-16] — Reel #42 Dario Is Right is best on record: 1,650 views in 48h, 916 on YouTube Shorts (prev best 105). Full 4-platform report for reels #33-#42 at reports/engagement-2026-09-16.md — named CEOs + consensus is the winning pattern; YouTube is the only platform with a moving ceiling; TT/IG/FB flat at ~300/reel; saves near zero everywhere
