@@ -37,6 +37,12 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-09-18 — [AUTO-LOGGED — needs James's strategic note] The AI That Can't Talk
+  Slug: 2026-09-18-jev-ai-cant-talk
+  Posted to: instagram, facebook, tiktok, youtube_shorts
+  Build notes from tracker: Reel #43. TypeSafe's Jev (early access 2026-09-15), a System One decision model from ex-OpenAI researcher Diogo Almeida (InstructGPT co-author): no text output, typed decisions with confidence scores in 70-500ms, TypeSafe claims 40-200x faster and 40-400x cheaper than chat models, Doom demo at 10 decisions/s for ~$7/hr. Sources: typesafe.ai launch post, The Register 2026-09-16, heise, DataCamp. 117.2s at 1.25x, PiP head, 6 slides (slide1 == slide2, hook uploaded twice, scene 2 reuses hook slide). Sync PASS, coverage 0.955 (311/311). Script scored 8.30/10, 97.6th pct of 12,414. Pipeline fix: slide_canvas lifts non-2:3 slides clear of the Shorts rail. Known: slide 5 says 20-200x, TypeSafe floor is 40x. YouTube title names-first: ChatGPT co-author Diogo Almeida built an AI that never talks. Posted IG/FB/TT/YT 2026-09-18 by Bisrat via Publer.
+  Engagement: not yet pulled.
+
 2026-09-14 — [AUTO-LOGGED — needs James's strategic note] Dario Is Right
   Slug: 2026-09-14-dario-is-right
   Posted to: instagram, facebook, tiktok, youtube_shorts
