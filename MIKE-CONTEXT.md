@@ -37,6 +37,12 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-09-22 — [AUTO-LOGGED — needs James's strategic note] The One Who Said No
+  Slug: 2026-09-22-one-who-said-no
+  Posted to: instagram, facebook, tiktok, youtube_shorts
+  Build notes from tracker: Reel #44. Jensen Huang (Nvidia) rejects Amodei's 'We Must Pace the Frontier' (essay 2026-09-12; Altman and Musk agreed, Hassabis backed direction). Huang at Dreamforce 2026-09-15: 'We don't need any new laws... The market forces are already there.' CBS 2026-09-20: labs want relief from existing laws. Zuckerberg sided with Huang (CNBC 09-15, Fortune 09-16). Sources: TechCrunch, Bloomberg, RealClearPolitics, OfficeChai, Quartz, CNBC. 86.6s at 1.25x, PiP head, 6 slides, NO music (Bisrat's call). Sync PASS, coverage 0.913. Script scored 9.10 (Haiku, inflated; James ~8.0). Known: '12,000 people' unsourced (recording + slide 3); slide 4 'Face the Nation' vs CBS Sunday Morning; stray scribble slide 1; Hassabis likeness weak. YouTube title: Jensen Huang says no to Amodei, Altman and Musk: AI needs no new laws. Posted IG/FB/TT/YT 2026-09-22 by Bisrat.
+  Engagement: not yet pulled.
+
 2026-09-18 — [AUTO-LOGGED — needs James's strategic note] The AI That Can't Talk
   Slug: 2026-09-18-jev-ai-cant-talk
   Posted to: instagram, facebook, tiktok, youtube_shorts
