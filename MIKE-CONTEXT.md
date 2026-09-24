@@ -37,6 +37,12 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-09-24 — [AUTO-LOGGED — needs James's strategic note] The AI That Didn't Want to Drive
+  Slug: 2026-09-24-ai-didnt-want-to-drive
+  Posted to: instagram, facebook, tiktok, youtube_shorts
+  Build notes from tracker: Reel #45. DrivingBench (3 independent devs): real Toyota Corolla driven by chatbots via one camera frame per command, human in seat, below walking speed, cone course in a parking lot. Some models refused (unsafe), agreed when told simulation, refused again on seeing the car was real, drove once renamed 'DrivingBench Sandbox'. GPT-6 Astra finished on 2nd try, 5:22, ~$8 compute; Claude 45%, Grok 11%, GPT-5.6 Sol 6%. One run per model. Sources: drivingbench.com Sept 17 run, OfficeChai, Trending Topics, AI/TLDR, The Register. 107.1s at 1.25x, PiP head, 6 slides, NO music. Sync PASS, coverage 0.949. Script scored 8.90 (Haiku, inflated; James ~8.2). Known: slide 1 Sam Altman photo, not in story. YouTube title: GPT-6, Claude and Grok drove a real Toyota. Only one finished the course. Posted IG/FB/TT/YT 2026-09-24 by Bisrat.
+  Engagement: not yet pulled.
+
 2026-09-22 — [AUTO-LOGGED — needs James's strategic note] The One Who Said No
   Slug: 2026-09-22-one-who-said-no
   Posted to: instagram, facebook, tiktok, youtube_shorts
