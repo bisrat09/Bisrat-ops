@@ -34,6 +34,7 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-10-02 — Reel #47 Big Mac AI pricing (Reuters) posted IG/FB/TT/YT, 101.7s 1.25x, no music. YT title: McDonald's AI recommends Big Mac prices by what your neighborhood will pay. 48h pull due 10-04 — first reel toward 3/week cadence
 2026-10-02 — Cadence target set to 3 reels/week across IG/FB/TT/YT — old 2/day rule never matched reality (Sept actual ~1.75/week)
 2026-10-02 — IG native numbers for reels #43-46 (views): Muse 226, Jev 186, Jensen 134, DrivingBench 116; 2-4 likes, 1 save total. Muse leads IG+FB, Jev leads TT. YouTube still missing. — completes Mike's requested pull
 2026-10-02 — Model locked to Opus 5.5; IG goal reset to 5K by May 2027 — Bisrat's call after locked-block cleanup
