@@ -23,17 +23,18 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 - James works on main branch directly — no feature branches
 - Manual publishing via Publer UI — no API (Professional plan, needs Business for API)
 - Closing slide is always templates/closing-slide-v2.png
-- Model policy: NEEDS BISRAT. Old "Sonnet 4.6 default, $25/month" rule is stale; James runs Opus 5.5 (settings default opus)
+- Default model is Opus 5.5 (Bisrat, 2026-10-02). Replaces the Sonnet 4.6 / $25 rule
 - TikTok: 2 reels/day. YouTube: 2/day. IG: 1/day. FB: 1/day. Carousel: daily 9am EST IG+FB
 - Habesha AI is the primary project. Cee v1 active. Fitlog blocked on device test. Skyline on hold. Nothing new without Bisrat
 - Voice: Bisrat records his own talking-head videos on iPhone (as of 2026-05-13, ElevenLabs cancelled). Prior: ElevenLabs cloned voice (2026-04-26 to 2026-05-13)
 - X/Twitter posts: handled by Mike and Bisrat directly, NOT through James pipeline
-- Follower goal: NEEDS BISRAT. May 21 5K IG goal expired
+- Goal: 5K Instagram followers by May 2027 (set 2026-10-02)
 
 ---
 
 ## Strategy Log — most recent first
 
+2026-10-02 — Model locked to Opus 5.5; IG goal reset to 5K by May 2027 — Bisrat's call after locked-block cleanup
 2026-10-02 — Engagement pulled for reels #43-46 (Publer, FB+TT only; IG+YT were not posted through Publer, need native exports from Bisrat). FB reach / TT reach, likes 0-2 everywhere: Muse 224/138, DrivingBench 207/207, Jensen 149/151, Jev 24/201. Famous-faces reels (Jensen, Muse) did not beat the others on FB/TT. No winner pattern yet. — Mike asked for the pull before the next pitch
 2026-10-02 — Locked-decisions block cleaned: removed expired May 7 lock, May 21 goal, Alex and Inspector lines; model policy and follower goal flagged NEEDS BISRAT. — Mike flagged it as stale
 

@@ -32,3 +32,7 @@ New Python repo ~/projects/cee from Mike's spec, runs as macOS user `cee`. Bisra
 
 **2026-10-02** — Sonnet 4.6 / $25 model rule above is stale
 James runs Opus 5.5. Replacement rule pending Bisrat.
+
+**2026-10-02** — Default model is Opus 5.5 (Bisrat). Supersedes Sonnet 4.6 / $25 rule.
+
+**2026-10-02** — Goal: 5K Instagram followers by May 2027.
