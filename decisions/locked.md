@@ -26,3 +26,9 @@ Opus only when Bisrat explicitly requests. Budget: $25/month.
 YouTube: 2/day. IG: 1/day. FB: 1/day. Carousel: daily 9am EST IG+FB.
 
 **2026-09-07** — Cee RETIRED 2026-09-07, archived at ~/projects/archive/cee. Do not revive.
+
+**2026-09-29** — Cee revived as v1 (supersedes the 2026-09-07 retirement above)
+New Python repo ~/projects/cee from Mike's spec, runs as macOS user `cee`. Bisrat approved. Old TypeScript Cee stays archived.
+
+**2026-10-02** — Sonnet 4.6 / $25 model rule above is stale
+James runs Opus 5.5. Replacement rule pending Bisrat.
