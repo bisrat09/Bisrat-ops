@@ -36,3 +36,5 @@ James runs Opus 5.5. Replacement rule pending Bisrat.
 **2026-10-02** — Default model is Opus 5.5 (Bisrat). Supersedes Sonnet 4.6 / $25 rule.
 
 **2026-10-02** — Goal: 5K Instagram followers by May 2027.
+
+**2026-10-02** — Cadence: 3 reels/week, same day on IG/FB/TT/YT (Bisrat). Supersedes the 2026-04-18 TikTok 2/day rule.

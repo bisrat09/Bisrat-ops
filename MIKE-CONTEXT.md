@@ -24,7 +24,7 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 - Manual publishing via Publer UI — no API (Professional plan, needs Business for API)
 - Closing slide is always templates/closing-slide-v2.png
 - Default model is Opus 5.5 (Bisrat, 2026-10-02). Replaces the Sonnet 4.6 / $25 rule
-- TikTok: 2 reels/day. YouTube: 2/day. IG: 1/day. FB: 1/day. Carousel: daily 9am EST IG+FB
+- Cadence: 3 reels/week, same day on IG/FB/TT/YT (Bisrat, 2026-10-02). Replaces the 2026-04-18 2/day rule
 - Habesha AI is the primary project. Cee v1 active. Fitlog blocked on device test. Skyline on hold. Nothing new without Bisrat
 - Voice: Bisrat records his own talking-head videos on iPhone (as of 2026-05-13, ElevenLabs cancelled). Prior: ElevenLabs cloned voice (2026-04-26 to 2026-05-13)
 - X/Twitter posts: handled by Mike and Bisrat directly, NOT through James pipeline
@@ -34,6 +34,7 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-10-02 — Cadence target set to 3 reels/week across IG/FB/TT/YT — old 2/day rule never matched reality (Sept actual ~1.75/week)
 2026-10-02 — IG native numbers for reels #43-46 (views): Muse 226, Jev 186, Jensen 134, DrivingBench 116; 2-4 likes, 1 save total. Muse leads IG+FB, Jev leads TT. YouTube still missing. — completes Mike's requested pull
 2026-10-02 — Model locked to Opus 5.5; IG goal reset to 5K by May 2027 — Bisrat's call after locked-block cleanup
 2026-10-02 — Engagement pulled for reels #43-46 (Publer, FB+TT only; IG+YT were not posted through Publer, need native exports from Bisrat). FB reach / TT reach, likes 0-2 everywhere: Muse 224/138, DrivingBench 207/207, Jensen 149/151, Jev 24/201. Famous-faces reels (Jensen, Muse) did not beat the others on FB/TT. No winner pattern yet. — Mike asked for the pull before the next pitch
