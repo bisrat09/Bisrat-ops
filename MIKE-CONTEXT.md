@@ -34,6 +34,7 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-10-02 — IG native numbers for reels #43-46 (views): Muse 226, Jev 186, Jensen 134, DrivingBench 116; 2-4 likes, 1 save total. Muse leads IG+FB, Jev leads TT. YouTube still missing. — completes Mike's requested pull
 2026-10-02 — Model locked to Opus 5.5; IG goal reset to 5K by May 2027 — Bisrat's call after locked-block cleanup
 2026-10-02 — Engagement pulled for reels #43-46 (Publer, FB+TT only; IG+YT were not posted through Publer, need native exports from Bisrat). FB reach / TT reach, likes 0-2 everywhere: Muse 224/138, DrivingBench 207/207, Jensen 149/151, Jev 24/201. Famous-faces reels (Jensen, Muse) did not beat the others on FB/TT. No winner pattern yet. — Mike asked for the pull before the next pitch
 2026-10-02 — Locked-decisions block cleaned: removed expired May 7 lock, May 21 goal, Alex and Inspector lines; model policy and follower goal flagged NEEDS BISRAT. — Mike flagged it as stale
