@@ -34,6 +34,12 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-10-03 — [AUTO-LOGGED — needs James's strategic note] FoodNeverComes: The Delivery Site That Never Delivers
+  Slug: 2026-10-03-food-never-comes
+  Posted to: instagram, facebook, tiktok, youtube_shorts
+  Build notes from tracker: Reel #48. FoodNeverComes: fake food delivery site by Purvansh Parmar and Anshul Sharma (26, Udaipur, India). 22 kitchens, 327 dishes, checkout charges nothing, AI-generated rider calls to say he is lost outside your building. 2.7M visitors since June 2026. Tagline 'The food never comes, but the dopamine does.' Follow-up TripNeverLeaves (fake vacation planner, 100K+ users). Science: anticipatory utility; Berridge (wanting vs liking), Lembke (dopamine drives seeking, not pleasure); relief vs reinforcement unproven. Trend started in South Korea. Sources: BBC (Soutik Biswas), Business Today 2026-09-24. 22 kitchens/327 dishes/100K are Business Today only. Script scored 9.00 (100th pct). 122.4s at 1.25x, PiP fills slides' top-right slot (--head-box 708,0,372,482), 6 slides, NO music. Sync PASS, coverage 0.926. Jev lints clean. YouTube title: FoodNeverComes: 2.7 million people visited a food delivery site that never delivers. Posted IG/FB/TT/YT 2026-10-03 by Bisrat.
+  Engagement: not yet pulled.
+
 2026-10-02 — Reel #47 Big Mac AI pricing (Reuters) posted IG/FB/TT/YT, 101.7s 1.25x, no music. YT title: McDonald's AI recommends Big Mac prices by what your neighborhood will pay. 48h pull due 10-04 — first reel toward 3/week cadence
 2026-10-02 — Cadence target set to 3 reels/week across IG/FB/TT/YT — old 2/day rule never matched reality (Sept actual ~1.75/week)
 2026-10-02 — IG native numbers for reels #43-46 (views): Muse 226, Jev 186, Jensen 134, DrivingBench 116; 2-4 likes, 1 save total. Muse leads IG+FB, Jev leads TT. YouTube still missing. — completes Mike's requested pull
