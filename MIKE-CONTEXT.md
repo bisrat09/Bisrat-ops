@@ -34,6 +34,12 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-10-07 — [AUTO-LOGGED — needs James's strategic note] Greta Garbo Is Acting Again, 36 Years After She Died
+  Slug: 2026-10-07-garbo-returns
+  Posted to: instagram, facebook, tiktok, youtube_shorts
+  Build notes from tracker: Reel #49. Greta Garbo AI comeback: 99-second film for SKF (Gothenburg ball-bearing company; Garbo's 2nd-ever role was a 1921 SKF promo film). No Garbo photos/films fed to AI (copyright); text-prompt likeness via Nano Banana Pro + Seedream, overlaid on a human actor; voice rebuilt from early film recording. Great-nephew Craig Reisfield (one of 3 relatives managing her legacy) 'flabbergasted', 'touching', 'I won't say no' to film roles. Ends on 'I want to be alone.' Died 1990-04-15, last film Two-Faced Woman 1941 (verified). Source: The Guardian (Robert Booth) 2026-09-30. Script v2 (Bisrat edit) scored 8.90 (99.8th pct); James v1 8.70. 113.4s at 1.25x, 5 slides 1080x1424 blur-fill, PiP in slides' top-right slot, NO music. Sync PASS, coverage 0.967, Jev lints clean. Known wording: narration/slides say 'family approved the project' and 'family says a full AI Garbo film is not inconceivable'; Guardian supports neither exactly. Captions accurate. Shipped as is. Lane: famous face. YouTube title: Greta Garbo is acting again, 36 years after she died. Posted IG/FB/TT/YT 2026-10-07 by Bisrat.
+  Engagement: not yet pulled.
+
 2026-10-03 — [AUTO-LOGGED — needs James's strategic note] FoodNeverComes: The Delivery Site That Never Delivers
   Slug: 2026-10-03-food-never-comes
   Posted to: instagram, facebook, tiktok, youtube_shorts
