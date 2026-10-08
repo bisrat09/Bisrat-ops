@@ -357,3 +357,6 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-09-20] — Publer API key rotated and moved to secrets.env; leaked key confirmed revoked. Engagement pulls now auto re-run jev_features.py
 [2026-09-29] — Cee rebuilt from Mike's v1 push-to-talk spec in ~/projects/cee; weekend-1 voice loop live over Tailscale (0.6s round trip, echo only), Shortcut setup in progress — Bisrat approved revival, separate cee macOS user and Anthropic key
 [2026-09-29] — Reel #46 Meta Muse posted IG/FB/TT/YT — script scored 8.70, 99.5th pct
+[2026-10-07] — Trial Claude voice mode + Gmail/Calendar/Drive connectors for one week before more Cee work; Bisrat logs every errand he wishes an agent handled — test whether off-the-shelf covers the need before building
+[2026-10-08] — Voice-mode/connectors trial ON HOLD; finishing Cee v1 rebuild first. Only open item: Bisrat's iPhone Shortcut. No new Cee features until v1 works end to end — v1 is one step from done
+[2026-10-08] — Ordering-agent ideas (DoorDash CLI, Amazon reorders) parked in ~/projects/cee/BACKLOG.md, with confirm-before-pay and a per-order cap — post-v1 only
