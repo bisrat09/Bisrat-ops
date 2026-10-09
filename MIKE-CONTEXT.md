@@ -360,3 +360,4 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-10-07] — Trial Claude voice mode + Gmail/Calendar/Drive connectors for one week before more Cee work; Bisrat logs every errand he wishes an agent handled — test whether off-the-shelf covers the need before building
 [2026-10-08] — Voice-mode/connectors trial ON HOLD; finishing Cee v1 rebuild first. Only open item: Bisrat's iPhone Shortcut. No new Cee features until v1 works end to end — v1 is one step from done
 [2026-10-08] — Ordering-agent ideas (DoorDash CLI, Amazon reorders) parked in ~/projects/cee/BACKLOG.md, with confirm-before-pay and a per-order cap — post-v1 only
+[2026-10-08] — Reel #50 'AI Is Changing Mathematics' (OpenAI 722 papers, 3 withdrawn, Tao vs Litt) posted IG/FB/TT/YT — Mike's math story run; quasi-Riemann is OpenAI's own claim, kept out; brief at habesha-ai/research/2026-10-08-openai-math/
