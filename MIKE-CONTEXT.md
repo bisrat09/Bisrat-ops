@@ -376,3 +376,7 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-10-28] — James Inbox live: Mika task -> headless James -> branch + compare link -> daily for-duet digest; first task (slide-top-docs) passed end to end in ~1 min — Duet handoff working
 [2026-10-28] — james-daemon (old Telegram engineer) stopped, sherlock-watcher stopped, all Telegram bot tokens revoked — Telegram fully retired per locked 2026-04-20 decision
 [2026-10-28] — Cee PAUSED until James Inbox / Duet handoff checks out — Duet may cover the agent need; no Cee work until Bisrat unpauses
+[2026-10-28] — Cee PAUSED (see above); Fitlog (Fitbod replacement) promoted to active and shipped to Bisrat's iPhone via TestFlight — goal is cancelling the Fitbod subscription
+[2026-10-28] — Fitlog distribution: EAS (free Expo account @bisrat09) + existing paid Apple Developer account (Team ZU5M6MDDB7); TestFlight builds expire every 90 days, rebuild before ~2027-01-26
+[2026-10-28] — Fitlog imported Bisrat's full Fitbod history (386 workouts, 13k sets since 2023); one-week gym trial before cancelling Fitbod
+[2026-10-28] — Fitlog exercise demos use free sources only (free-exercise-db photos/instructions, ExerciseDB GIFs, YouTube link); paid HD video library declined as unnecessary
