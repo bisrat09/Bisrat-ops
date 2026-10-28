@@ -375,3 +375,4 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-10-28] — Mika ↔ James handoff switched from GitHub issues to Drive folder 'James Inbox' (subfolders for-james/in-progress/needs-bisrat/done/for-duet), dedicated rclone remote, single-instance poller — no machine user needed, Duet more likely has a Drive connector; all earlier caps still apply
 [2026-10-28] — James Inbox live: Mika task -> headless James -> branch + compare link -> daily for-duet digest; first task (slide-top-docs) passed end to end in ~1 min — Duet handoff working
 [2026-10-28] — james-daemon (old Telegram engineer) stopped, sherlock-watcher stopped, all Telegram bot tokens revoked — Telegram fully retired per locked 2026-04-20 decision
+[2026-10-28] — Cee PAUSED until James Inbox / Duet handoff checks out — Duet may cover the agent need; no Cee work until Bisrat unpauses
