@@ -127,8 +127,12 @@ def ls(folder: str) -> list[dict]:
 
 
 def read_doc(folder: str, name: str) -> str:
-    # Google Docs export as txt (export_formats on the remote) with a BOM
-    return run(["rclone", "cat", f"{REMOTE}{folder}/{name}"]).lstrip("﻿").strip()
+    # Google Docs export as txt (export_formats on the remote) with a BOM and
+    # CRLF. Markdown escapes (reel\_pipeline.py) only appear in a markdown
+    # export, but Mika has seen them, so strip them in case one slips through.
+    text = run(["rclone", "cat", f"{REMOTE}{folder}/{name}"]).lstrip("﻿")
+    text = re.sub(r"\\([\\`*_{}\[\]()#+\-.!|<>~])", r"\1", text)
+    return text.replace("\r\n", "\n").strip()
 
 
 def move(name: str, src: str, dst: str) -> bool:
