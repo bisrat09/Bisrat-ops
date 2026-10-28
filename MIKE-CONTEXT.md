@@ -367,3 +367,8 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-10-08] — Voice-mode/connectors trial ON HOLD; finishing Cee v1 rebuild first. Only open item: Bisrat's iPhone Shortcut. No new Cee features until v1 works end to end — v1 is one step from done
 [2026-10-08] — Ordering-agent ideas (DoorDash CLI, Amazon reorders) parked in ~/projects/cee/BACKLOG.md, with confirm-before-pay and a per-order cap — post-v1 only
 [2026-10-08] — Reel #50 'AI Is Changing Mathematics' (OpenAI 722 papers, 3 withdrawn, Tao vs Litt) posted IG/FB/TT/YT — Mike's math story run; quasi-Riemann is OpenAI's own claim, kept out; brief at habesha-ai/research/2026-10-08-openai-math/
+[2026-10-28] — Mika (Bisrat's Claude Duet agent) ↔ James handoff via private GitHub repo james-inbox approved, 11 fixes folded in — async mailbox, outbound polling only
+[2026-10-28] — Inbox tasks: engineering only, PRs only, James never merges; no posting/spending/deleting/secrets/new projects; content stays in live sessions — Mika can be prompt-injected via email, so capability is capped regardless of author
+[2026-10-28] — James gets a GitHub machine user; poller runs headless with restricted allowlist, no bypass, Stop hook off, writes TASKS-inbox.md — prevent self-trigger loops and main pushes
+[2026-10-28] — Sherlock notifications move from Telegram to the daily for-duet digest; Telegram fully retired — single channel through the repo
+[2026-10-28] — Reel #51 STAMBHA smart cane (Aaradhya Jain, 10) posted IG/FB/TT/YT, 109.2s, no music — new --slide-top pipeline flag clears Shorts rail

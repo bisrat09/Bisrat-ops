@@ -38,3 +38,5 @@ James runs Opus 5.5. Replacement rule pending Bisrat.
 **2026-10-02** — Goal: 5K Instagram followers by May 2027.
 
 **2026-10-02** — Cadence: 3 reels/week, same day on IG/FB/TT/YT (Bisrat). Supersedes the 2026-04-18 TikTok 2/day rule.
+
+**2026-10-28** — Amendment to 2026-04-20 "work on main": tasks that arrive through the james-inbox issue queue (from Mika, Bisrat's Duet agent) run headless, in a branch/worktree, and land as PRs only. James never merges them. Terminal/live sessions stay on main. Inbox scope: engineering tasks on existing projects only; no posting, spending, deleting, secrets, new projects or merging. Poller runs write to TASKS-inbox.md, never TASKS.md (Bisrat merges in live sessions).
