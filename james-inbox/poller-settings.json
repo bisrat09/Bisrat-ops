@@ -1,0 +1,43 @@
+{
+  "disableAllHooks": true,
+  "permissions": {
+    "defaultMode": "default",
+    "allow": [
+      "Read(./**)",
+      "Edit(./**)",
+      "Glob",
+      "Grep",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git show:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(ls:*)",
+      "Bash(python3 -m pytest:*)",
+      "Bash(python3 -m py_compile:*)",
+      "Bash(npm test:*)",
+      "Bash(npm run test:*)",
+      "Bash(npm run lint:*)",
+      "Bash(npm run typecheck:*)",
+      "Bash(npx tsc:*)"
+    ],
+    "deny": [
+      "Bash(git push:*)",
+      "Bash(git merge:*)",
+      "Bash(git reset:*)",
+      "Bash(git checkout main:*)",
+      "Bash(rm:*)",
+      "Bash(curl:*)",
+      "Bash(rclone:*)",
+      "Bash(gh:*)",
+      "WebFetch",
+      "WebSearch",
+      "Read(~/.config/**)",
+      "Read(~/.ssh/**)",
+      "Read(~/.claude/**)",
+      "Read(**/.env)",
+      "Read(**/secrets*)"
+    ]
+  }
+}
