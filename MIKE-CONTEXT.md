@@ -372,3 +372,4 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-10-28] — James gets a GitHub machine user; poller runs headless with restricted allowlist, no bypass, Stop hook off, writes TASKS-inbox.md — prevent self-trigger loops and main pushes
 [2026-10-28] — Sherlock notifications move from Telegram to the daily for-duet digest; Telegram fully retired — single channel through the repo
 [2026-10-28] — Reel #51 STAMBHA smart cane (Aaradhya Jain, 10) posted IG/FB/TT/YT, 109.2s, no music — new --slide-top pipeline flag clears Shorts rail
+[2026-10-28] — Mika ↔ James handoff switched from GitHub issues to Drive folder 'James Inbox' (subfolders for-james/in-progress/needs-bisrat/done/for-duet), dedicated rclone remote, single-instance poller — no machine user needed, Duet more likely has a Drive connector; all earlier caps still apply
