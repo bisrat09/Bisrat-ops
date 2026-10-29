@@ -380,3 +380,5 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-10-28] — Fitlog distribution: EAS (free Expo account @bisrat09) + existing paid Apple Developer account (Team ZU5M6MDDB7); TestFlight builds expire every 90 days, rebuild before ~2027-01-26
 [2026-10-28] — Fitlog imported Bisrat's full Fitbod history (386 workouts, 13k sets since 2023); one-week gym trial before cancelling Fitbod
 [2026-10-28] — Fitlog exercise demos use free sources only (free-exercise-db photos/instructions, ExerciseDB GIFs, YouTube link); paid HD video library declined as unnecessary
+[2026-10-28] — Fitlog builds 4–8 same day from Bisrat's on-device testing: smarter workout generation, pause + big clock, exercise demo (photos, instructions, YouTube link), ~22 wrong exercise pictures found and removed — app is gym-ready
+[2026-10-28] — Fitbod auto-renews 2026-11-05: Bisrat runs his first real Fitlog workout 10-29, then cancels Fitbod before 11-05 if it holds up
