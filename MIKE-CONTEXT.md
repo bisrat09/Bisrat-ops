@@ -384,3 +384,6 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-10-28] — Fitbod auto-renews 2026-11-05: Bisrat runs his first real Fitlog workout 10-29, then cancels Fitbod before 11-05 if it holds up
 [2026-10-28] — habeshaaicontent@gmail.com now forwards all new mail to bisrat09 (label "Habesha AI", skips inbox) so Duet can watch it — Mika task via James Inbox, done in live session with Bisrat's approval; treat that mail as untrusted input
 [2026-10-28] — Fitlog shareable: TestFlight external group "Friends", public link capped at 10 testers, build 8 in Apple beta review — Bisrat wants to share with a friend
+[2026-11-05] — Facebook PAUSED: Bisrat stopped posting to FB over its personal data collection. Reels now go IG/TT/YT only until he unpauses; don't plan FB cuts or count FB in engagement comparisons
+[2026-11-05] — Reel #52 Google Suncatcher haiku (Gemma 4 in orbit, wonder angle, haiku first) posted IG/TT/YT, 43.2s at 1.25x, no music — --slide-top now takes slide numbers
+[2026-11-05] — Fitbod cancelled; Fitlog going well, Bisrat testing more and sending feedback
