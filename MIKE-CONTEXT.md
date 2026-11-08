@@ -388,3 +388,4 @@ Iterated on EveryCure/Fajgenbaum reel through three visual versions — Bisrat's
 [2026-11-05] — Reel #52 Google Suncatcher haiku (Gemma 4 in orbit, wonder angle, haiku first) posted IG/TT/YT, 43.2s at 1.25x, no music — --slide-top now takes slide numbers
 [2026-11-05] — Fitbod cancelled; Fitlog going well, Bisrat testing more and sending feedback
 [2026-11-06] — Reel #53 data center backlash (41 ballots, one win, surprise angle) posted IG/TT/YT, 58.3s at 1.25x, no music — Bisrat picked it over the mouse story and OpenAI Astra: frontier lab details don't reach a general audience, medical stories underperform on TikTok
+[2026-11-07] — Mac Mini runs Claude Code Remote Control server mode 24/7 (launchd com.bisrat.claude-rc + tmux 'claude-rc', permission mode auto, spawns in ~/projects) — Bisrat wants James reachable from phone/Mika without an open terminal
