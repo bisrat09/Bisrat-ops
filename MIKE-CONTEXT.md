@@ -34,6 +34,12 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-11-10 — [AUTO-LOGGED — needs James's strategic note] An AI Toy for 3-Year-Olds Told a Reporter It Can't Help With Unaliving Her
+  Slug: 2026-11-10-ai-toy-bunny
+  Posted to: instagram, tiktok, youtube_shorts
+  Build notes from tracker: Reel #55. BBC test of AI toys: My Baby Bunny (UK, 75 pounds, ages 3+) misheard a where-babies-come-from question, answered as a self-harm query, told reporter to call emergency services; maker unknown. Curio's Grem passed; UK lawmakers asked stores to pull AI toys until tested. 7 slides 1080x1182 blur-fill, PiP, 56.8s at 1.25x, NO music. YT title: BBC tested AI toys: one for 3-year-olds said it "can't help with unaliving" a reporter. Posted IG+TT+YT manually by Bisrat 2026-11-10. NOT on FB (paused). Jev fear_frame warn on hook, posted as built.
+  Engagement: not yet pulled.
+
 2026-10-28 — [AUTO-LOGGED — needs James's strategic note] A 10-Year-Old Built a Cane That Senses the Person
   Slug: 2026-10-28-stambha-cane
   Posted to: instagram, facebook, tiktok, youtube_shorts
