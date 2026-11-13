@@ -34,6 +34,9 @@ Retired: Telegram James (2026-04-20), Hermes, Milo (2026-04-21), Telegram Bridge
 
 ## Strategy Log — most recent first
 
+2026-11-13 — Jev now decides story scoring (Phase 2 switch, Bisrat's yes); Haiku only writes hooks for passers. AI-story gate and a semantic already-posted gate are on, so pending-research and the daily carousel only surface AI stories we have not posted — shadow report: Haiku passed 25% and half of those were not AI stories, Jev with the gate passes 8% (about 8 a day)
+2026-11-13 — YouTube Analytics API connected (read-only, Habesha AI channel on habeshaaicontent@gmail.com). App is in Testing so the token needs re-auth weekly until Google lets us publish it — closes the manual Studio export gap
+
 2026-11-11 — [AUTO-LOGGED — needs James's strategic note] He Asked ChatGPT to Time His Mile. Then the AI Labs Called
   Slug: 2026-11-10-husk-ai-troll
   Posted to: instagram, tiktok, youtube_shorts
